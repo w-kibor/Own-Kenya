@@ -1,12 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+## 🏗️ Technical Stack
 
-# Run and deploy your AI Studio app
+Frontend: Next.js 15 (App Router) for Server-Side Rendering (SSR) and SEO.
 
-This contains everything you need to run your app locally.
+Styling: Tailwind CSS for a responsive, mobile-first UI.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1P1NUJd9Mel32J14cIbi7gagI9PNmXt4C
+Backend/Database: Supabase (PostgreSQL) for real-time property updates and auth.
+
+Media: Cloudinary for optimized image delivery of high-res property photos.
+
+Maps: Mapbox API integration for geographic land plotting.
+
+## 🌟 Key Features
+
+Advanced Filtering: Multi-criteria search for land acreage, house types, and budget ranges.
+
+Interactive Split-View: Real-time map-to-list synchronization for localized searches.
+
+Lead Conversion: Integrated WhatsApp API for direct buyer-to-seller communication.
+
+Offline Support: PWA capabilities for browsing saved listings with low connectivity.
 
 ## Run Locally
 
